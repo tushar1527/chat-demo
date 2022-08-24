@@ -1,0 +1,389 @@
+[
+	{
+		"path": "permissions/create",
+		"displayName": "Permission Create",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "permissions/get",
+		"displayName": "Permission Lust",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "permissions/update/:id",
+		"displayName": "Permission update",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "permissions/delete/:id",
+		"displayName": "Permission Delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+
+	{
+		"path": "role/create",
+		"displayName": "Role Create",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "role/get",
+		"displayName": "Role List",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "role/update/:id",
+		"displayName": "Role update",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "role/delete/:id",
+		"displayName": "Role Delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+
+	{
+		"path": "admin-user/create",
+		"displayName": "Admin User Create",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "admin-user/get",
+		"displayName": "Admin User List",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "admin-user/update/:id",
+		"displayName": "Admin User update",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "admin-user/delete/:id",
+		"displayName": "Admin User Delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "admin-user/changePassword",
+		"displayName": "Admin User Delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "admin-user/status",
+		"displayName": "Admin User Delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "appointment/create",
+		"displayName": "appointment create",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "appointment/get",
+		"displayName": "appointment List",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "appointment/update/:id",
+		"displayName": "appointment Update",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "appointment/delete/:id",
+		"displayName": "appointment delete",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "common/createConsult",
+		"displayName": "consult create",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "common/createLanguage",
+		"displayName": "consult language create",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "common/getAllLanguage",
+		"displayName": "Language get",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "common/getAllConsult/:id",
+		"displayName": "Language get",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "common/updateLanguage/:id",
+		"displayName": "language Update",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "common/updateConsult/:id",
+		"displayName": "consult Update",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "common/deleteLanguage/:id",
+		"displayName": "language delete",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "common/deleteConsult/:id",
+		"displayName": "consult delete",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "dashboard/",
+		"displayName": "data get",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "dashboard/",
+		"displayName": "data get",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "device/get",
+		"displayName": "device get",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "device/create",
+		"displayName": "Device created",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "device/update/:id",
+		"displayName": "Device update",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "device/delete/:id",
+		"displayName": "Device delete",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "faq/get",
+		"displayName": "Device List",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "faq/create",
+		"displayName": "Device create",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "faq/update/:id",
+		"displayName": "Device update",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "faq/delete/:id",
+		"displayName": "Device delete",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "healthArticle/create",
+		"displayName": "healthArticle create",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "healthArticle/delete/:id",
+		"displayName": "healthArticle delete",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "healthArticle/get",
+		"displayName": "healthArticle List",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "healthArticle/update/:id",
+		"displayName": "healthArticle update",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "monthlyTimeSlot/create",
+		"displayName": "monthlyTimeSlot create",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "monthlyTimeSlot/update/:id",
+		"displayName": "monthlyTimeSlot update",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "notificationType/create",
+		"displayName": "Notification Type created",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "notificationType/update/:id",
+		"displayName": "Notification Type update",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "notificationType/list",
+		"displayName": "Notification Type list",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "notificationType/delete/:id",
+		"displayName": "Notification Type delete",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "package/get",
+		"displayName": "package List",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "package/create",
+		"displayName": "package create",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "package/update/:id",
+		"displayName": "package update",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "package/delete/:id",
+		"displayName": "package delete",
+		"createdBy": "610bde138803212f22d"
+	},
+	{
+		"path": "payment/create",
+		"displayName": "payment create",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "scheduleAppointment/create",
+		"displayName": "scheduleAppointment create",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "scheduleAppointment/get",
+		"displayName": "scheduleAppointment list",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "settings/create",
+		"displayName": "settings create",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "settings/get",
+		"displayName": "settings list",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "settings/update/:id",
+		"displayName": "settings update",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "settings/delete/:id",
+		"display": "settings update",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "speciality/create",
+		"displayName": "speciality create",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "speciality/update/:id",
+		"displayName": "speciality update",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "speciality/delete/:id",
+		"displayName": "speciality delete",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "speciality/get",
+		"displayName": "speciality list",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "speciality/assignSpeciality",
+		"displayName": "speciality update",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "timeSlot/create",
+		"displayName": "timeSlot create",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "timeSlot/get",
+		"displayName": "timeSlot list",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "timeSlot/update/:id",
+		"displayName": "timeSlot update",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "timeSlot/delete/:id",
+		"displayName": "timeSlot delete",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "timeSlot/assign",
+		"displayName": "timeSlot update",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "user/create",
+		"displayName": "timeSlot create",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "image/upload",
+		"displayName": "image create",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "user/create",
+		"displayName": "user create",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "user/verify-otp",
+		"displayName": "verify-otp",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "user/update",
+		"displayName": "user update",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "user/delete/:id",
+		"displayName": "user delete",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "user/dr/list",
+		"displayName": "user list",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "user/customer/list",
+		"displayName": "customer list",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "user/customer/delete/:id",
+		"displayName": "customer delete",
+		"createdBy": "610bde138803212f22"
+	},
+	{
+		"path": "user/social/login",
+		"displayName": "social login",
+		"createdBy": "610bde138803212f22"
+	}
+]
